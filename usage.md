@@ -25,7 +25,7 @@
 
 ```shell
 
-docker build -t nginx-config:1.0 .
+docker build -t alphal/nginx-config:1.0 .
 
 
 ```
